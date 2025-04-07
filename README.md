@@ -1,11 +1,11 @@
 # fox32
 
-![fox32 logo](docs/logos/fox32-circle.png)  
+![fox32 logo](contrib/logos/fox32-circle.png)
 (logo by [ZenithNeko](https://zencorner.xyz/contacts.html))
 
 This is the reference emulator of the fox32 platform. See the [organization root](https://github.com/fox32-arch) README for general details.
 
-![Screenshot of fox32os](docs/screenshots/fox32os-terminal.png)
+![Screenshot of fox32os](contrib/screenshots/fox32os-terminal.png)
 
 ## Getting Started
 
